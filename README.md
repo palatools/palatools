@@ -42,11 +42,10 @@ https://www.palatools.com/blog/
 
 ## External Mentions
 
-DEV.to article:
-https://dev.to/palasoftware/building-palabot-v2-a-windows-desktop-workspace-for-telegram-automation-3pf0
+* [PalaBot V2 Premium product page](https://www.palatools.com/palabot-v2.html)
+* [DEV.to build note about PalaBot V2 Premium](https://dev.to/pala_software/designing-palabot-v2-premium-a-windows-desktop-workspace-for-telegram-workflows-4a6i)
+* [Indie Hackers product page for PalaBot V2 Premium](https://www.indiehackers.com/product/palabot-v2-premium)
 
-Indie Hackers product page:
-https://www.indiehackers.com/product/palabot-v2-premium
 
 ## Current Focus
 
